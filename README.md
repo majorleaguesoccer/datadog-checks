@@ -9,8 +9,4 @@ Available checks:
 
 - [Open file handles](/open_handles)
 
-Justin
-
-Github: @jslatts
-
-Twitter: @jdslatts
+Justin (Github: @jslatts, Twitter: @jdslatts)
