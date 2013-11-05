@@ -1,0 +1,6 @@
+init_config:
+
+instances:
+    - process_name: dd-agent
+      stat_prefix: datadog
+      ps_filters: [sed 's/.*dogstatsd.*/dogstatsd/g']
