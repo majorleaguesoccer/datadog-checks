@@ -7,7 +7,7 @@ Where possible, we contribute our integration checks back, but some checks are t
 
 Available checks:
 
-- [Open file handles](https://github.com/majorleaguesoccer/datadog-checks/open_handles)
+- [Open file handles](/open_handles)
 
 Justin
 Github: @jslatts

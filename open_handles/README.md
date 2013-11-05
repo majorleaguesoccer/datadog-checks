@@ -3,7 +3,7 @@ open_handles
 
 Ruffness level: high
 
-This check looks for open file handles for a specified process and returns the count. It is pretty rough and was created as a quick hack for us to run our node.js app instances. It will need some additional work to make it easily handle other processes. The main limitation is being able to grab the pid of the target process using pidof. Some additional manipulation using ps could likely fix this issue.
+This check looks for open file handles for a specified process and returns the count. It is pretty rough and was created as a quick hack for us to monitor our node.js app instances. It will need some additional work to make it easily handle other processes. The main limitation is being able to grab the pid of the target process using pidof. Some additional manipulation using ps could likely fix this issue.
 
 __Config Example__
 
